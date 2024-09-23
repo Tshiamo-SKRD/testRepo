@@ -1,0 +1,4 @@
+Let’s now go through the process of creating a repository, creating new files inside the working directory,
+adding them to the staging area, and then committing them to the repository.
+
+This file serves as part of the example set from the GitHub course.
